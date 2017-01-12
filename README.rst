@@ -1,4 +1,4 @@
-Maya: Datetime for Humans™
+Maya: Datetime for Humans™ (VERSION FORMAT PT-BR)
 ==========================
 
 .. image:: https://img.shields.io/pypi/v/maya.svg
